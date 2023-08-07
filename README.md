@@ -1,5 +1,3 @@
-Hey there! 👋 I'm Haoting, a passionate Frontend Developer from Taiwan with a focus on creating exceptional user experiences using React, Typescript, and Next.js. 👨‍💻
-
 ### About Me
 - Actively seeking software engineer opportunities in the UK with visa sponsorship 🌍
 - Excited about contributing my skills to innovative projects and being part of dynamic and diverse teams 💡
