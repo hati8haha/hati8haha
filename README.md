@@ -1,24 +1,9 @@
-### About Me
-- Actively seeking software engineer opportunities in the UK with visa sponsorship 🌍
-- Excited about contributing my skills to innovative projects and being part of dynamic and diverse teams 💡
+A globe-trotting geography graduate who fell head over heels for coding! 🌎🤩💻  
 
-### Professional Experience
-- Worked at tech giant Google and start-up companies 🏢
-- Contributed to cutting-edge SaaS applications and fostered the Google Developer community 🌐
-- Deep understanding of Developer Relations (DevRel) and supported developers worldwide 🤝
+### Quick Bits
+- Traded maps🗺️ for React⚛️, Next.js, TypeScript.
+- Big fan of `clean code` and `dirty hiking boots` 🥾.
+- From Google 🏢 to startups, nailed coding, DevRel, and bubble milk tea 🧋.  
+- Explore the next advanture and Flutter, Golang, PostgreSQL 🐘.
 
-### Technical Expertise
-- Proficient in React, Redux, Typescript, and Next.js 🚀
-- Strong believer in clean and maintainable code with adherence to best practices and SOLID design principles ✨
-- Experienced in unit testing with Jest and internationalization with i18next 🧪
-- Familiar with CSS, Styled-components, Tailwind CSS, MUI, and more 🎨
 
-### Exploring New Horizons
-- Actively pursuing mobile app development with Flutter and Dart 📱
-- Expanding knowledge in backend technologies like Golang and PostgreSQL 🐘
-- Passionate about continuous learning and staying up-to-date with emerging technologies 🌱
-
-### Additional Skills
-- Skilled in Git, Webpack, Nginx, Linux, Docker, and Microservices 🛠️
-- Worked with both SQL and NoSQL databases 📊
-- Familiar with GCP and AWS, CI/CD pipelines, and Serverless architectures ☁️
