@@ -1,4 +1,4 @@
-A globe-trotting geography graduate who fell head over heels for coding! 🌎🤩💻  
+A globe-trotting geography graduate from Taiwan who fell head over heels for coding! 🌎🤩💻  
 
 ### Quick Bits
 - Traded maps🗺️ for React⚛️, Next.js, TypeScript.
